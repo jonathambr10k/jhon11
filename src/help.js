@@ -4,8 +4,8 @@ const //database
 ║
 ╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
 ╠➥ *3.0*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ 𝐃𝐎𝐍𝐎: jhon  ☔
+╠➥ *wa.me/+5599138474*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -175,17 +175,17 @@ const //database
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *NOME: jonatham   ☔*
+║ 
+║ *WPP: wa.me/+5599138474*
+║ 
 ║
 ║  *"Peita ou respeita 🐊🚩*
 ║  *"kibadores, vão se fuder"*
 ║
 ║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
-}
+╚═〘  jhon 𝐁𝐎𝐓 〙`
+}jonatham o lindo kkkk
 
 //Online.database
 
